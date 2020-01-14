@@ -1,3 +1,4 @@
-###application.bat - 201x - Joubioux ###
-echo "version 1"
+###application.bat - 2020 - Joubioux ###
+echo "version 1.1"
+echo "Copyright compagny - 2020
 echo "Build 10:00"
